@@ -61,6 +61,9 @@ Technologies I'm familiar with :
 [23.1]: https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
 [24.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ErzaTitania-2001)
+
+
 Connect with me on : 
 <!-- display the social media buttons in your README -->
 
@@ -94,6 +97,8 @@ Connect with me on :
 [5]: https://www.facebook.com/ahana.pal.710
 [6]: https://www.qwiklabs.com/public_profiles/427132e0-e5f7-47b7-ae31-9d0a9071e5e7
 [7]: https://www.hackerrank.com/lohoripal2001 
+
+
 
 Nice to meet you all! 
 
