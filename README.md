@@ -1,5 +1,7 @@
 # Aloha 👋
 
+![](https://komarev.com/ghpvc/?username=ErzaTitania-2001&label=PROFILE+VISITORS&color=blue&style=flat-square)
+
 
 ## Just another robotics/tech nerd here!
 
