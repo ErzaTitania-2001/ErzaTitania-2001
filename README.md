@@ -24,7 +24,7 @@ Connect with me on :
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
-
+[![alt text][7.1]][7]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -37,6 +37,7 @@ Connect with me on :
 [4.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [5.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [6.1]: https://img.shields.io/badge/Qwiklabs-Google--Cloud-red
+[7.1]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -46,6 +47,7 @@ Connect with me on :
 [4]: https://twitter.com/Toothpi56823329
 [5]: https://www.facebook.com/ahana.pal.710
 [6]: https://www.qwiklabs.com/public_profiles/427132e0-e5f7-47b7-ae31-9d0a9071e5e7
+[7]: https://www.hackerrank.com/lohoripal2001 
 
 Nice to meet you all! 
 
