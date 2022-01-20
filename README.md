@@ -6,7 +6,7 @@
 ## Just another robotics/tech nerd here!
 
 - 🔭 I’m currently working on my B2B, C2B model and a community machine learning project
-- 🌱 I’m currently learning: Google Cloud, Machine Learning and related Statistics 
+- 🌱 I’m currently learning: Machine Learning and related Statistics 
 - :computer: Currently serving as Student Mentor@Google Cloud, Core Committee@Institution's technical club.
 - 🤔 I’m looking for help in Machine Learning, Statistics!
 - 💬 Ask me about Arduino, Rbpi, robotics and OOP 
