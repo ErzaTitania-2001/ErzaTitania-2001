@@ -1,7 +1,7 @@
 # Aloha 👋
 
 ![](https://komarev.com/ghpvc/?username=ErzaTitania-2001&label=PROFILE+VISITORS&color=blue&style=flat-square)
-## I'm Ahana, a lucky vGHC'21 Scholar.
+## I'm Ahana, a lucky vGHC'21 Scholar and an Upcoming SDE Intern@Amazon.
 
 ## Just another robotics/tech nerd here!
 
