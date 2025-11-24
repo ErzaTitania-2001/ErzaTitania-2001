@@ -1,21 +1,35 @@
 # Aloha 👋
 
 ![](https://komarev.com/ghpvc/?username=ErzaTitania-2001&label=PROFILE+VISITORS&color=blue&style=flat-square)
-## I'm Ahana, a lucky vGHC'21 Scholar and an Upcoming SDE Intern@Amazon.
 
-## Just another robotics/tech nerd here!
+## I'm Ahana, a Software Engineer @ Trumio and Ex-Amazon SDE Intern. 
+### Building at the intersection of Scalable Backend Systems & Applied AI.
 
-- 🔭 I’m currently working on my B2B, C2B model and a community machine learning project
-- 🌱 I’m currently learning: Machine Learning and related Statistics 
-- :computer: Currently serving as Student Mentor@Google Cloud, Core Committee@Institution's technical club.
-- 🤔 I’m looking for help in Machine Learning, Statistics!
-- 💬 Ask me about Arduino, Rbpi, robotics and OOP 
-- 📫 Have look at my [portfolio](https://ahana-pal-portfolio.netlify.app) and you can leave me a message at [here](https://email-feedback.netlify.app/) !
-- 😄 Pronouns: Her
+- [cite_start]🔭 **I’m currently working on:** Architecting centralized governance platforms and deploying sub-second **RAG agents** using **Groq & Llama 3** at [Trumio](https://trumio.ai)[cite: 20, 26, 30].
+- [cite_start]🌱 **I’m currently deepening my knowledge in:** Advanced System Design, LLM Fine-tuning (PEFT/LoRA), and High-Performance Inference[cite: 17, 22].
+- [cite_start]💻 **Experience:** - **Software Engineer (Backend & AI)** @ Trumio (Remote) [cite: 20, 85]
+  - [cite_start]**SDE Intern** @ Amazon (Alexa Team) [cite: 36, 39]
+  - [cite_start]**Disney Scholar** vGHC'21 & **Harvard WECode** Tech Fellow [cite: 62, 63]
+- [cite_start]💬 **Ask me about:** - **Backend:** Python (FastAPI), Java 8, MongoDB Aggregations, Microservices[cite: 9, 88].
+  - [cite_start]**AI Engineering:** RAG Pipelines, LangChain, Prompt Engineering, Model Evaluation[cite: 16, 26].
+- [cite_start]📫 **Reach me:** Check out my [portfolio](https://ahana-pal-portfolio.netlify.app) or connect on [LinkedIn](https://linkedin.com/in/ahana-pal-5852771b2)[cite: 2, 3].
+- 😄 **Pronouns:** Her
 
-- ⚡ Fun fact: You might catch me ogling at dinosaurs or playing Valorant in my free time!
+---
 
-Technologies I'm familiar with : 
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-AI-orange?style=flat-square)
+
+
+---
+
+- ⚡ **Fun fact:** You might still catch me ogling at dinosaurs or playing Valorant in my free time!
 
 <!-- display the social media buttons in your README -->
 
@@ -42,7 +56,7 @@ Technologies I'm familiar with :
 
 <!-- icons with padding -->
 
-[8.1]:  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<!--[8.1]:  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [9.1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [10.1]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [11.1]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -59,7 +73,7 @@ Technologies I'm familiar with :
 
 [22.1]: https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 [23.1]: https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
-[24.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
+[24.1]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ErzaTitania-2001)
 
