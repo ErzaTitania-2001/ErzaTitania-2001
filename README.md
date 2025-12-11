@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ErzaTitania-2001&label=PROFILE+VISITORS&color=blue&style=flat-square)
 
-## I'm Ahana, a Software Engineer @ Trumio and Ex-Amazon SDE Intern. 
+## I'm Ahana, a Software Engineer Lead @ Trumio and Ex-Amazon SDE Intern. 
 ### Building at the intersection of Scalable Backend Systems & Applied AI.
 
 - [cite_start]🔭 **I’m currently working on:** Architecting centralized governance platforms and deploying sub-second **RAG agents** using **Groq & Llama 3** at [Trumio](https://trumio.ai)[cite: 20, 26, 30].
